@@ -1,0 +1,161 @@
+[
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": ["Blue-Key"]
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "d",
+			"items": [],
+			"requires": ["Green-Key"]
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "s",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": ["Green-Key"]
+		}
+	],
+	[
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "x",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "d",
+			"items": [],
+			"requires": ["Blue-Key"]
+		},
+		{
+			"symbol": "_",
+			"items": [],
+			"start": true
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		}
+	]
+]

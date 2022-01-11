@@ -1,0 +1,41 @@
+"""
+File:    rewrite_replace.py
+Author:  Sumedh Kane
+Date:    10/22/2021
+Section: 16
+E-mail:  sumedhk1@umbc.edu
+Description:
+  Takes a string input, finds a certain string within the string and replaces it with a specified third string.
+"""
+if __name__ == '__main__':
+
+    the_string = (input("What is the total string? ").lower())
+    look_for = (input("What string should we look for? ").lower())
+    replace_with = (input("What should we replace that string with? ").lower())
+
+    def rewrite_replace(the_string,look_for,replace_with):
+        result = ''
+        for i in range(1,len(the_string)):
+
+        return result
+
+'''
+    def rewrite_replace(the_string, look_for, replace_with):
+        result = ''
+        j = 0
+        if len(look_for) == 1:
+            while j < len(look_for):
+
+for i in the_string:
+
+
+                    if i == look_for:
+                        i = replace_with
+                    result = result + i
+                j += 1
+        else:
+            pass
+        return result
+
+'''
+    print(rewrite_replace(the_string, look_for, replace_with))

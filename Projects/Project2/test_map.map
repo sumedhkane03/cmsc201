@@ -1,0 +1,393 @@
+[
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "d",
+			"items": [],
+			"requires": [
+				"Blue Obelisk",
+				"Green Obelisk"
+			]
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": [
+				"Skeleton Key"
+			]
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": [
+				"Blue Obelisk"
+			]
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "d",
+			"items": [],
+			"requires": [
+				"Skeleton Key"
+			]
+		}
+	],
+	[
+		{
+			"symbol": "_",
+			"items": [
+				"Green Obelisk"
+			]
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "s",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "_",
+			"items": []
+		},
+		{
+			"symbol": "*",
+			"items": []
+		},
+		{
+			"symbol": "x",
+			"items": []
+		}
+	]
+]
